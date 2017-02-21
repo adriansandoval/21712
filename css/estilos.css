@@ -1,0 +1,31 @@
+body{
+	font-size: 12px;
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
+header{
+	text-align: center;
+
+}
+header img {
+	float: left;
+	margin-left: :-30px; 
+	margin-top: -40px;
+	width: 100px;
+}
+header nav ul li{
+	background: blue;
+	border-radius: 4px;
+	color:white;
+	display: inline-block;
+	margin-right: 10px;
+	padding: 2px 5px 2px 5px;
+	width: 58px;
+}
+
+header nav ul li:hover
+{
+	background: white;
+	color: blue;
+}
