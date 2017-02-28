@@ -1,0 +1,13 @@
+1. Pseudo-elementos
+	Contiene atributos
+2. Etiquetas <Etiqueta>
+	Contiene atributos
+3. Identificadores
+	Contiene atributos
+4. Clases
+	Contiene atributos
+5. Elemento de responsive design (diseño adaptativo)
+	Contiene atributos
+
+Todos ellos en orden alfabetico.
+Tanto elementos como atributos.
