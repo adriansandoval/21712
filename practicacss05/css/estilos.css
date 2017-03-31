@@ -1,0 +1,137 @@
+body{
+	background: #2A2A2A;
+	color:#747474;
+	font-size: 12px;
+	font-family: helvetica;
+	margin: 0 auto;
+	max-width: 1024px;
+	border: 1px solid white;
+}
+body header{
+	background: #F0F0F0;
+	text-align: right;
+}
+body header img{
+	/*margin-right: 10px;*/
+	width: 80%;
+}
+hr{
+	color: gray;
+}
+#artlogo{
+	width: 18%;
+	
+}
+#artlogo img{
+	
+	width: 75%;
+}
+#artverde,#artgris,#artrojo,#artclaro{
+	width: 19.5%;
+	height: 280px;
+	margin-left: -3px;
+
+}
+#artverde{
+	background: #AFCA52;
+	color:white;
+}
+#artgris{
+	background: #747474;
+	color: #595959;;
+}
+#artrojo{
+	background: #D32C3E;
+	color:white;
+}
+#artclaro{
+	background: #D5D5D5;
+	color: #595959;
+}
+
+#email{
+	color: lightblue;
+}
+#hrdivision{
+	margin-top: 10px;
+	color: gray;
+}
+
+
+#search{
+	position: absolute;
+	margin-left: -140px;
+	margin-top: 15px;
+	text-align: right;
+}
+#seccionAbajo{
+	text-align: center;
+}
+#seccionAbajo article{
+	display: inline-block;
+	width: 31%;
+	vertical-align: top;
+	text-align: left;
+	margin-left: 20px;
+
+
+}
+#seccionAbajo article img{
+	margin-left: 40px;
+	vertical-align: middle;
+	width: 80%;
+}
+#seccionArriba{
+	text-align: center;
+	margin-top: 15px;
+
+}
+#seccionArriba article{
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+	padding: 3px;
+
+}
+#spanart1{
+	font-weight: bold;
+	color:#ADADAD;
+}
+#spansend{
+	font-weight: bold;
+	color:#ADADAD;
+}
+
+
+#spanartsclaro{
+	font-size: 2.3em;
+	color: #595959;
+}
+
+.spanarts1{
+	color:white;
+	font-size: 2.3em;
+}
+.spanlogo1{
+	color:#ADADAD;
+}
+.spanarts2{
+	color: #ADADAD;
+	font-size: 2.3em;
+}
+.spanarts3{
+	color:#666666;
+}
+.spansub{
+	color:white;
+	font-weight: bold;
+}
+
+.spanread{
+	font-weight: bold;
+	margin-left: 200px;
+	color:#ADADAD;
+}
+.spantels{
+	color:#ADADAD;
+}
