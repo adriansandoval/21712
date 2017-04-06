@@ -15,7 +15,12 @@ function muestraPantallaPrincipal(){
 	PantallaPrincipal.on('closed',function(){
 		PantallaPrincipal = null
 	})
-	PantallaPrincipal.loadURL('http://www.marca.com')
+	//PantallaPrincipal.loadURL('http://www.marca.com')
+	PantallaPrincipal.loadURL(url.format({
+		pathname: path.join(__dirname, 'index.html'),
+		protocol: 'file',
+		slashes: true
+	}))
 	PantallaPrincipal.show()
 }
 
